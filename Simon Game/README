@@ -1,0 +1,7 @@
+Creating the classic Simon Game that will test your memory.
+
+This project was created in order to further my skills using the JQuery library.
+
+This classic simon memory game randomly selects between 4 different colors which the user will need to remember
+and press. Once the user presses the correct color, the game will move forward and add another color onto the
+existing color, creating a pattern of randomly selected colors the user will need to remember.
